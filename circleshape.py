@@ -1,4 +1,3 @@
-from test.test_typing import Other
 import pygame
 
 class CircleShape(pygame.sprite.Sprite):
